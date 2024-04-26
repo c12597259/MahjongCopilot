@@ -1,1 +1,1 @@
-return <a href="https://github.com/latorc/MahjongCopilot" target="_blank">super</a>.<a href="https://github.com/latorc/MahjongCopilot/blob/main/readme.md" target="_blank">readme()</a>
+return <a href="https://github.com/latorc/MahjongCopilot" target="_blank">super</a>.<a href="https://github.com/latorc/MahjongCopilot?tab=readme-ov-file" target="_blank">readme()</a>
